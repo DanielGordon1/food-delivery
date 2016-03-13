@@ -1,0 +1,4 @@
+"id","name","user_name","password","manager"
+"1","Daniel","danielgordon","12345","true"
+"2","Rosa","rosameijers","roosroos","false"
+"3","David","davidgordon","12345","false"

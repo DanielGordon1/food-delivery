@@ -1,0 +1,4 @@
+"id","meal","customer_id","employee_id","delivered"
+"1","Pasta Salad","1","2","true"
+"2","Pepperoni Pizza","2","1","true"
+"3","PizzaPie","2","2","false"
